@@ -16,6 +16,10 @@
 
 <body>
 
+<?php
+include('includes/formulaire.php');
+include('includes/secret.php');
+?>
 
 
 
