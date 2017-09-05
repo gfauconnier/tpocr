@@ -6,5 +6,3 @@
   <input type="submit" name="submitbtn" value="Submit">
 
 </form>
-
-<?php echo $_POST['sentpwd']; ?>
